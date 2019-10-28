@@ -1,0 +1,174 @@
+{
+  "restaurant": [
+    {
+      "id": 0,
+      "precio": 80,
+      "nombre": "hamburguesa",
+      "categoria": "comidas"
+    },
+    {
+      "id": 1,
+      "precio": "30",
+      "nombre": "gelatina",
+      "categoria": "postres"
+    },
+    {
+      "nombre": "Blizzard",
+      "precio": "45",
+      "categoria": "postre",
+      "id": 2
+    },
+    {
+      "nombre": "Carlotta",
+      "precio": "35",
+      "categoria": "postre",
+      "id": 3
+    },
+    {
+      "nombre": "Agua de Horchata",
+      "precio": "20",
+      "categoria": [
+        "bebida"
+      ],
+      "id": 4
+    },
+    {
+      "nombre": "Juguito de Programar ",
+      "precio": "21",
+      "categoria": "bebida",
+      "id": 5
+    },
+    {
+      "nombre": "Agua de Tamarindo",
+      "precio": "25",
+      "categoria": [
+        "bebida"
+      ],
+      "id": 7
+    },
+    {
+      "nombre": "EL juampa",
+      "precio": "5",
+      "categoria": [
+        "postre"
+      ],
+      "id": 8
+    },
+    {
+      "nombre": "El ricachon",
+      "precio": "30",
+      "categoria": [
+        "cortes"
+      ],
+      "id": 9
+    },
+    {
+      "nombre": "Vegetales",
+      "precio": "35",
+      "categoria": "ensalada",
+      "id": 10
+    },
+    {
+      "nombre": "Huevito con capsup",
+      "precio": "50",
+      "categoria": [
+        "cortes"
+      ],
+      "id": 12
+    },
+    {
+      "nombre": "Torta",
+      "precio": "35",
+      "categoria": "cortes",
+      "id": 13
+    },
+    {
+      "nombre": "Carne Asada",
+      "precio": "100",
+      "categoria": "cortes",
+      "id": 14
+    },
+    {
+      "nombre": "Ciri",
+      "precio": "4",
+      "categoria": [
+        "postre"
+      ],
+      "id": 15
+    },
+    {
+      "nombre": "Milanesa de Pollo",
+      "precio": "50",
+      "categoria": "cortes",
+      "id": 16
+    },
+    {
+      "nombre": "Coca cola",
+      "precio": "13",
+      "categoria": "bebida",
+      "id": 19
+    },
+    {
+      "nombre": "aston martin",
+      "precio": 0,
+      "categoria": "",
+      "id": 20
+    },
+    {
+      "nombre": "Caldo de pollo",
+      "precio": "25",
+      "categoria": [
+        "ensalada"
+      ],
+      "id": 27
+    },
+    {
+      "nombre": "EL ULTIMO",
+      "precio": "21",
+      "categoria": [
+        "bebida"
+      ],
+      "id": 31
+    },
+    {
+      "nombre": "el ultimo 2.0",
+      "precio": "30",
+      "categoria": [
+        "postre"
+      ],
+      "id": 32
+    },
+    {
+      "nombre": "Enchiladas",
+      "precio": "35",
+      "categoria": [
+        "cortes"
+      ],
+      "id": 35
+    },
+    {
+      "nombre": "Tacos de asada",
+      "precio": "21",
+      "categoria": "cortes",
+      "id": 36
+    },
+    {
+      "nombre": "Agua de Jamaica",
+      "precio": "20",
+      "categoria": "postre",
+      "id": 37
+    },
+    {
+      "nombre": "Frappuccino",
+      "precio": "21",
+      "categoria": "postre",
+      "id": 38
+    },
+    {
+      "nombre": "Chocomilk",
+      "precio": "20",
+      "categoria": "bebida",
+      "id": 39
+    }
+  ]
+}
